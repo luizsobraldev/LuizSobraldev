@@ -2,11 +2,6 @@
 
 Desenvolvedor front-end em Recife, gosto de pegar uma ideia e torná-la real com HTML, CSS, JavaScript, React e TypeScript. Ainda não estou no mercado, mas estou sempre praticando e descobrindo novas formas de criar interfaces que sejam bonitas e intuitivas. Adoro aprender e testar novidades no código, cada detalhe conta! Se você também é fã de desenvolvimento ou quer trocar umas ideias, vamos conversar!
 
-![Luiz Sobral GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizSobraldev&show_icons=true&theme=radical)
-
-
-
-
 ## Languages and Tools:
 
 [![blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
