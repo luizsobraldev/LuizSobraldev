@@ -1,6 +1,6 @@
 ## Hi, my name is Luiz! 👋
 
-Sou o Luiz Eduardo Sobral, um entusiasta da tecnologia apaixonado por criar soluções inovadoras. Estou em constante busca pelo domínio das habilidades necessárias para me tornar um desenvolvedor full stack e contribuir de forma significativa para o mundo da tecnologia.
+Desenvolvedor front-end em Recife, gosto de pegar uma ideia e torná-la real com HTML, CSS, JavaScript, React e TypeScript. Ainda não estou no mercado, mas estou sempre praticando e descobrindo novas formas de criar interfaces que sejam bonitas e intuitivas. Adoro aprender e testar novidades no código — cada detalhe conta! Se você também é fã de desenvolvimento ou quer trocar umas ideias, vamos conversar!
 
 ![Luiz Sobral GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizSobraldev&show_icons=true&theme=radical)
 
