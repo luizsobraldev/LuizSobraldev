@@ -3,7 +3,11 @@
 Desenvolvedor front-end em Recife, gosto de pegar uma ideia e torná-la real com HTML, CSS e JavaScript. Ainda não estou no mercado, mas estou sempre praticando e descobrindo novas formas de criar interfaces que sejam bonitas e intuitivas. Adoro aprender e testar novidades no código, cada detalhe conta! Se você também é fã de desenvolvimento ou quer trocar umas ideias, vamos conversar!
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<div>
+  <a href="https:github.com/LuizSobraldev">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LuizSobraldev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <
+</div>
 
 ###
 
