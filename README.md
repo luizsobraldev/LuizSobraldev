@@ -2,6 +2,9 @@
 
 Desenvolvedor front-end em Recife, gosto de pegar uma ideia e torná-la real com HTML, CSS e JavaScript. Ainda não estou no mercado, mas estou sempre praticando e descobrindo novas formas de criar interfaces que sejam bonitas e intuitivas. Adoro aprender e testar novidades no código, cada detalhe conta! Se você também é fã de desenvolvimento ou quer trocar umas ideias, vamos conversar!
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 ###
 
 <div align="left">
