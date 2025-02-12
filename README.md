@@ -28,6 +28,6 @@
 ---
 
 ## 🎯 Atividade no GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizsobraldev&show_icons=true&theme=default&title_color=FF4500&text_color=000000&icon_color=FFA500&bg_color=FFFFFF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizsobraldev&layout=compact&theme=default&title_color=1E90FF&text_color=000000&bg_color=FFFFFF)
+![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizsobraldev&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizsobraldev&layout=compact&theme=dark)
 
