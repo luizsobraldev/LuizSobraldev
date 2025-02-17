@@ -27,7 +27,7 @@
 
 ---
 
-## 🎯 Atividade no GitHub
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizsobraldev&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizsobraldev&layout=compact&theme=dark)
+## 🚀 Um pouco mais sobre o meu perfil
+![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizsobraldev&show_icons=true&theme=dracula)
+
 
