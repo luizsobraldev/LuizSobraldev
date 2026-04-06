@@ -29,6 +29,7 @@ Atualmente venho aprofundando meus conhecimentos em Java e no ecossistema Spring
 Gosto de desafios e estou em constante evolução para crescer profissionalmente todos os dias.
 
 Contato: 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-sobral-dev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizsobraldev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizsobraldev@gmail.com)
