@@ -26,8 +26,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizsobraldev@gmail.com)
 
 ---
-
-## 🚀 Um pouco mais sobre o meu perfil
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizsobraldev&show_icons=true&theme=dracula)
-
-
