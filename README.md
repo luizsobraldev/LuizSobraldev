@@ -1,28 +1,34 @@
 # 👋 Olá, meu nome é Luiz!
 
+👨🏻‍💻 Analista de Testes
+
+💼 Analista de Testes at [MV](https://mv.com.br/)
+
 ## Sobre mim  
 
-💻 Sou um desenvolvedor **Full Stack** apaixonado por tecnologia e criação de interfaces intuitivas.  
-🚀 Trabalho com **TypeScript, React e Node.js**, buscando sempre desenvolver aplicações eficientes e escaláveis.  
-📚 Estou sempre praticando, testando novas tecnologias e melhorando meu código.  
-🎯 Meu objetivo é criar experiências digitais que sejam bonitas, funcionais e acessíveis.  
+Sou Analista de Testes, apaixonado por tecnologia e por resolver problemas, com foco em qualidade de software e desenvolvimento de soluções.
 
----
+Tenho experiência com as seguintes tecnologias:
 
-## 📌 Minhas Skills  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Robot Framework;
+Selenium;
+Browser Library;
+Testes automatizados (E2E);
+CI/CD;
+Git e GitLab;
+MySQL;
+APIs REST;
+Java;
+Spring Boot;
+JPA / Hibernate
 
----
+Sou capaz de desenvolver soluções focadas em qualidade, automatizando processos e garantindo a confiabilidade das aplicações. Busco sempre escrever código limpo e seguir boas práticas utilizadas no mercado.
 
-## 📫 Onde me encontrar?  
+Atualmente venho aprofundando meus conhecimentos em Java e no ecossistema Spring, com foco em desenvolvimento Back-End.
+
+Gosto de desafios e estou em constante evolução para crescer profissionalmente todos os dias.
+
+Contato: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-sobral-dev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizsobraldev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizsobraldev@gmail.com)
-
----
