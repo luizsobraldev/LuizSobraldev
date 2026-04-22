@@ -1,7 +1,5 @@
 # 👋 Olá, meu nome é Luiz!
 
-👨🏻‍💻 Analista de Testes
-
 💼 Analista de Testes at [MV](https://mv.com.br/)
 
 ## Sobre mim  
